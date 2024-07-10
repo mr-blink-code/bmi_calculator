@@ -1,8 +1,7 @@
 body {
   margin: 0;
   padding: 0;
-  background: fixed;
-  background-size: cover;
+  background-attachment: fixed;
 }
 
 #video-background {
